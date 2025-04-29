@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTodoApi", "SchoolTodoApi.csproj", "{681EAA10-8209-A23F-6C43-4BCAC6E2F113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681EAA10-8209-A23F-6C43-4BCAC6E2F113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681EAA10-8209-A23F-6C43-4BCAC6E2F113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681EAA10-8209-A23F-6C43-4BCAC6E2F113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681EAA10-8209-A23F-6C43-4BCAC6E2F113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5033AB2E-3B4F-45D9-9BC5-495B4F9E405B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681EAA10-8209-A23F-6C43-4BCAC6E2F113}|SchoolTodoApi.csproj|g:\\3 course\\2 semester\\oid\\indzmongodb\\schooltodoapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681EAA10-8209-A23F-6C43-4BCAC6E2F113}|SchoolTodoApi.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681EAA10-8209-A23F-6C43-4BCAC6E2F113}|SchoolTodoApi.csproj|g:\\3 course\\2 semester\\oid\\indzmongodb\\schooltodoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681EAA10-8209-A23F-6C43-4BCAC6E2F113}|SchoolTodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681EAA10-8209-A23F-6C43-4BCAC6E2F113}|SchoolTodoApi.csproj|g:\\3 course\\2 semester\\oid\\indzmongodb\\schooltodoapi\\schooltodoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{681EAA10-8209-A23F-6C43-4BCAC6E2F113}|SchoolTodoApi.csproj|solutionrelative:schooltodoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolTodoApi",
+              "DocumentMoniker": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\SchoolTodoApi.csproj",
+              "RelativeDocumentMoniker": "SchoolTodoApi.csproj",
+              "ToolTip": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\SchoolTodoApi.csproj",
+              "RelativeToolTip": "SchoolTodoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T18:41:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\3 course\\2 SEMESTER\\oid\\indzMongoDB\\SchoolTodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:39:31.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
