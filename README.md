@@ -66,5 +66,3 @@ npm start
 
 5. **Sample Document in MongoDB**  
    ![MongoDB Document](./screenshots/mongo-document.png)
-
-*(Place your own screenshots in `./screenshots/` folder)*
